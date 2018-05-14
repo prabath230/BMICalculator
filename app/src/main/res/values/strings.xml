@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+
+    <string name="obese_class_i">Obese_class_ii(Moderately Obese )</string>
+    <string name="obese_class_ii">Obese_class_ii(severely Obese )</string>
+    <string name="obese_class_iii">Obese_class_iii(very severely Obese )</string>
+</resources>
